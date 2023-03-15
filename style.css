@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: white;
+    height: 100vh;
+    margin: 0px;
+    font-family: 'Space Grotesk', sans-serif;
+    text-transform: uppercase;
+    position: relative;
+}
+
+.navigation {
+    padding: 20px;
+    background-color: #111;
+    width: 100vw;
+    color: #888;
+    font-size: 4vh;
+    position: fixed;
+    display: block;
+    font-weight: bolder;
+}
+
+.photo-1 {
+    position: fixed;
+    margin-top: -90vh;
+    padding: 10vh;
+    padding-left: 22vh;
+    width: 50vh;
+    padding-top: 35vh;
+}
+.parent {
+    padding: 25vh;
+    padding-top: 40vh;
+    padding-left: 50%;
+    margin: auto;
+    display: block;
+    font-size: 5vh;
+}
+
+.line {
+    display: flex;
+    justify-content: space-between;
+  }
+  
